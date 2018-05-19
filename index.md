@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Janji
 
-You can use the [editor on GitHub](https://github.com/apisyurga/janji/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Activity tracker for Pakatan Harapan's GE 14's manifesto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### TEN PROMISES IN THE FIRST 100 DAYS
+#### Abolish the GST and take steps to reduce cost of living
 
-### Markdown
+##### GST is zero rated beginning of 6th June 2018
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Customs Malaysia: http://gst.customs.gov.my/en/hl/SiteAssets/pdf/FAQ%2028ENG29%20-%20UPDATED%2017.5.18281PM29.pdf
+* Ministry of Finance: http://www.treasury.gov.my/index.php/galeri-aktiviti/siaran-media/item/3803-siaran-media-pengenaan-cukai-barang-dan-perkhidmatan-pada-kadar-sifar.html
+* News: The Star: https://www.thestar.com.my/news/nation/2018/05/16/gst-zero-rated-from-june-1
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+#### Original Documents
+Original documents can be found here:
 
-1. Numbered
-2. List
+* Manifesto main page: http://pakatanharapan.com.my/diymanifesto
 
-**Bold** and _Italic_ and `Code` text
+* Manifesto: Bahasa Melayu: http://kempen.s3.amazonaws.com/pdf/Buku_Harapan.pdf
 
-[Link](url) and ![Image](src)
-```
+* Manifesto: English: http://kempen.s3.amazonaws.com/manifesto/Manifesto_text/Manifesto_PH_EN.pdf
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Manifesto: Chinese: http://kempen.s3.amazonaws.com/manifesto/Manifesto_text/Manifesto_PH_CN.pd
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/apisyurga/janji/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
